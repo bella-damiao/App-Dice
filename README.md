@@ -12,7 +12,7 @@ This app simulates dice rolling and displays random dice images on the user inte
 - Interface Builder and Storyboards
 - UIImageView
 - Randomization
-- Auto Layout 
+- Some Concepts of Auto Layout 
 
 ***
 
@@ -26,4 +26,4 @@ This app simulates dice rolling and displays random dice images on the user inte
 - Interface Builder e Storyboards
 - UIImageView
 - Randomização
-- Auto Layout 
+- Alguns Conceitos de Auto Layout 
