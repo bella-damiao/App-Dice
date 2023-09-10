@@ -18,6 +18,8 @@ This app simulates dice rolling and displays random dice images on the user inte
 
 # 🎲 App Dados
 
+Este aplicativo simula o lançamento de dados e exibe imagens de dados aleatórios na interface do usuário
+
 ### 👩‍💻 Tecnologias e Conceitos usados:
 
 - Linguagem de Programação Swift
